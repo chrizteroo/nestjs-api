@@ -91,7 +91,7 @@ Save your  entries
 again localhost:3000/api
 Done Swagger interface is ready.
 
-Testing Api Calls
+**Testing Api Calls**
 
 in any of the 3 calls click on the dropdown arrow select try it out tab
 click execute button
@@ -128,7 +128,7 @@ run npm run start:dev
 refresh swagger
 Post added to swagger api
 
-Create Parameters by Creating a DTO class
+**Create Parameters by Creating a DTO class**
 
 inside the afj folder, create a folder call it dto
 inside the dto folder create a file named create.dto.ts
@@ -212,7 +212,7 @@ NOTE: The reason for the default value is because each properties has to be spec
 
 NETWORKING: taking every properties will look at it later.
 
-Making a service call
+**Making a service call**
 
 go to controller.ts
 @POST add under return
@@ -254,7 +254,7 @@ Click send
 
 Response will be -- Hello
 
-Adding entry to Post man request
+**Adding entry to Postman request**
 
 add name to christopher to include Christopher Oladimeji
 
