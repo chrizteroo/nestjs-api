@@ -256,8 +256,6 @@ Response will be -- Hello
 
 Adding entry to Post man request
 
-
-
 add name to christopher to include Christopher Oladimeji
 
 on same JSON used as example 
